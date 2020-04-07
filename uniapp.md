@@ -17,6 +17,7 @@ date:	2020-04-06 23:17:24 +08:00
 
 ---
 * [VUX](https://vux.li/demos/v2/)
+* [WE-VUE](https://demo.wevue.org/)
 
 * [Swan UI](https://future-team.github.io/swan-ui/examples/index.html)
 * [Smart Program](https://smartprogram.baidu.com/docs/develop/tutorial/demo/)
