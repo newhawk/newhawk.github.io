@@ -1,4 +1,4 @@
--e ---
+---
 title: nfc aid list
 date:  2020-05-06 23:25:09 +0800
 category:
@@ -14,12 +14,12 @@ AID Name	| AID			| 应用		|
 借记卡
 ## UnionPay
 
-AID Name	| AID			|
---		| --			|
-借记卡		| A000000333010101	|
-信用卡		| A000000333010102	|
-准信用卡	| A000000333010103	|
-电子现金	| A000000333010106	|
+AID Name		| AID			|
+--			| --			|
+PBOC贷记应用 		| A000000333010101	|
+PBOC借记应用		| A000000333010102	|
+PBOC准贷应用		| A000000333010103	|
+PBOC电子现金应用	| A000000333010106	|
 
 ## Visa
 AID Name		| AID			|
@@ -43,3 +43,9 @@ AID Name		| AID			|
 --			| --			|
 American Express	| A00000002501		|
 
+
+## 参考
+* [IC卡参数公钥之 AID和RID](https://www.cnblogs.com/merray/p/9554362.html)
+* [ISO7816](https://en.wikipedia.org/wiki/ISO/IEC_7816)
+* [EMV](https://zh.wikipedia.org/wiki/EMV)
+* [ISO7816下载地址](https://www.iso.org/standard/54550.html)
