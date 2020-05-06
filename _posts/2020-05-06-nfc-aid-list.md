@@ -22,6 +22,7 @@ PBOC准贷应用		| A000000333010103	|
 PBOC电子现金应用	| A000000333010106	|
 
 ## Visa
+
 AID Name		| AID			|
 --			| --			|
 Visa credit or debit	| A0000000031010	|
@@ -31,6 +32,7 @@ Visa Plus		| A0000000038010	|
 
  
 ## Master
+
 AID Name		| AID			|
 --			| --			|
 Master credit or debit	| A0000000041010	|
@@ -39,12 +41,14 @@ Maestro (debit card)	| A0000000043060	|
 Cirrus (interbank network) ATM card only	| A0000000046000	|
 
 ## American Express
+
 AID Name		| AID			|
 --			| --			|
 American Express	| A00000002501		|
 
 
 ## 参考
+
 * [IC卡参数公钥之 AID和RID](https://www.cnblogs.com/merray/p/9554362.html)
 * [ISO7816](https://en.wikipedia.org/wiki/ISO/IEC_7816)
 * [EMV](https://zh.wikipedia.org/wiki/EMV)
